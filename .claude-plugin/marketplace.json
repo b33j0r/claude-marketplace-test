@@ -1,0 +1,8 @@
+{
+  "name": "b33j0r-test",
+  "description": "A throwaway marketplace with one skill, to test whether claude.ai can add a marketplace at all.",
+  "owner": { "name": "Brian Jorgensen" },
+  "plugins": [
+    { "name": "hello", "source": "./plugins/hello", "description": "One skill that says hello. A test, nothing more." }
+  ]
+}
